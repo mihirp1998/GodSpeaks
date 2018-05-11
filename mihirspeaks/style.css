@@ -1,0 +1,68 @@
+.button {
+    text-align: center;
+    margin-left: 50%;
+
+    margin-top: 60px;
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+#border {
+
+  border:3px dashed white;
+    border-radius:100px;
+    width:184px;
+       margin-left: 45%;
+    margin-right: 50%;
+    height:184px;
+    margin-top: 1%;
+     z-index: -1;
+   
+   
+}
+img{width:120px; height:120px;
+margin-left: 20%;
+margin-top: 20%;
+
+border-radius:100px;
+
+
+
+}
+
+.button:hover {background-color: #3e8e41}
+
+.answer{
+
+}
+.button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+#myProgress {
+
+    margin-top: 70px;
+    width: 100%;
+    background-color: #252525;
+}
+#myBar {
+    width: 1%;
+    height: 30px;
+    background-color: #4CAF50;
+    display: none;
+}
+body{
+    padding-left: 100px;
+	margin: 0 auto;
+    padding-right: 100px;
+}
