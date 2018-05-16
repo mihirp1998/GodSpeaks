@@ -130,7 +130,21 @@ $(".check").keydown(function (event) {
     },1);*/
 
 })
+        $.ajax(
+                {
+                    url : 'http://localhost:5000/open',
+                    data : val,
+                    method: 'POST',
+                    type: 'POST',
+                    success: function(){
 
+
+                        window.location.assign('http://localhost:5000/open');
+
+                    }
+
+                }
+            )
 function getLast(arr){
 
 
