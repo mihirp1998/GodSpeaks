@@ -64,8 +64,7 @@ We will be using Html Css and Javascript for the frontend.We have used JQuery si
 It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler
 with an easy-to-use API that works across a multitude of browsers.Finlly, Ajax will make the query request Asynchronous
 and thus improve the latency of the application.
-```
-```
+
 ## Jquery Magic
 The thing that makes this website of what it is, is the jquery code. Because of library callback function to get keypress before
 it is pressed allows us to output the text on the input text as per our choice.Thus by using the following callback function we 
