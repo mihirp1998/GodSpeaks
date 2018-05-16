@@ -4,6 +4,7 @@ On the web there are currently a lot of applications and gimmicks which are made
 I have tried to reinvent one such application called as Peter Answers. In which the input text on the html file plays
 a key role in tricking the user about the possiblities of the app.
 
+![Home](images/home.png)
 ---
 
 ## Set up the development environment
@@ -23,7 +24,7 @@ behind the app's magic. `index.html` includes the main frontend file.
 
 File Structure:
 
-![Tree](Images/tree.png)
+![Arch](images/arch.jpg)
 
 ## Nodejs Setup
 Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code server-side.
